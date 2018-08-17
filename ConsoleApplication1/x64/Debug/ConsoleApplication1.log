@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ConsoleApplication1.cpp
+  Source.cpp
+  JointAngles.cpp
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(272): warning C4101: 'forces': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(273): warning C4101: 'AngDev': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(273): warning C4101: 'AngZ': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(270): warning C4101: 'p': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(269): warning C4101: 'f': unreferenced local variable
+c:\users\user\source\repos\consoleapplication1\consoleapplication1\jointangles.cpp(273): warning C4101: 'AngX': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\x64\Debug\TCP_Sigma7.exe
